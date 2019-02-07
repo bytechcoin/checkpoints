@@ -6,7 +6,7 @@
 
 - Right click [this link](https://github.com/bytechcoin/checkpoints/raw/master/checkpoints.csv) and choose `Save link as...` to download the latest checkpoints.csv.
 - Place checkpoints.csv in the same folder as your BytechCoind daemon
-- You can get BytechCoind from here if you don't have it already: https://www.bytechcoin.com
+- You can get BytechCoind from here if you don't have it already: http://www.bytechcoin.com
 - Make sure you shut down any GUI wallets, or any other instances of BytechCoind.
 
 ### Usage
